@@ -66,7 +66,6 @@ Outputs the decoded text to the terminal.
 - Max QR version is **40**, corresponding to a 177×177 grid.
 - Max storage (version 40, low EC): ~7,089 digits or ~2,953 bytes binary.
 - Use low error correction and high version for max data capacity.
-- Output is compatible with any standard QR scanner.
 
 ---
 
