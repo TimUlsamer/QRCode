@@ -28,7 +28,7 @@ def txt_to_qr(input_path, output_path="output_qr.png", error_correction='H'):
 
 if __name__ == "__main__":
 
-    target_size = 1800  # bytes
+    target_size = 1024  # bytes
     filename = "test_big_file.txt"
 
     with open(filename, "w", encoding="utf-8") as f:
